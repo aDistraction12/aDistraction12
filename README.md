@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aDistraction12
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Web Technologies and Development
+- 🌱 I’m currently learning Unreal Engine and Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
